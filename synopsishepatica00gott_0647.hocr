@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsishepatica00gott_0647.png"; bbox 0 0 1824 3252; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 929 1635 1503">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 929 1635 1503">
+     <span class='ocr_line' id='line_1_1' title="bbox 489 929 1280 1021; baseline 0.003 -16"><span class='ocrx_word' id='word_1_1' title='bbox 489 929 1280 1021; x_wconf 72' lang='lat' dir='ltr'><strong>supplementum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 118 1182 1635 1264; baseline 0.001 -17"><span class='ocrx_word' id='word_1_2' title='bbox 118 1182 750 1262; x_wconf 72' lang='lat' dir='ltr'><strong>synopseos</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 808 1189 1635 1264; x_wconf 75' lang='lat' dir='ltr'>Hepaticarum‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 223 1438 1525 1503; baseline 0.001 -17"><span class='ocrx_word' id='word_1_4' title='bbox 223 1438 403 1500; x_wconf 74' lang='lat' dir='ltr'>speeies</span> <span class='ocrx_word' id='word_1_5' title='bbox 439 1442 752 1501; x_wconf 72' lang='lat' dir='ltr'>complectens</span> <span class='ocrx_word' id='word_1_6' title='bbox 798 1445 841 1487; x_wconf 80' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_7' title='bbox 877 1455 1135 1503; x_wconf 75' lang='lat' dir='ltr'>synonyma</span> <span class='ocrx_word' id='word_1_8' title='bbox 1174 1439 1525 1501; x_wconf 63' lang='lat' dir='ltr'>praestantiora,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 355 1682 1394 1735">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 355 1682 1394 1735">
+     <span class='ocr_line' id='line_1_4' title="bbox 355 1682 1394 1735; baseline 0.002 -14"><span class='ocrx_word' id='word_1_9' title='bbox 355 1696 458 1735; x_wconf 79' lang='lat' dir='ltr'><strong>quae</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 499 1683 590 1722; x_wconf 88' lang='lat' dir='ltr'>dum</span> <span class='ocrx_word' id='word_1_11' title='bbox 632 1683 731 1722; x_wconf 77' lang='lat' dir='ltr'>liber</span> <span class='ocrx_word' id='word_1_12' title='bbox 772 1684 836 1722; x_wconf 81' lang='lat' dir='ltr'>hic</span> <span class='ocrx_word' id='word_1_13' title='bbox 879 1682 1173 1735; x_wconf 79' lang='lat' dir='ltr'>imprimebatur</span> <span class='ocrx_word' id='word_1_14' title='bbox 1217 1683 1265 1723; x_wconf 81' lang='lat' dir='ltr'>ab</span> <span class='ocrx_word' id='word_1_15' title='bbox 1304 1685 1394 1723; x_wconf 78' lang='lat' dir='ltr'>aliis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 621 1860 1123 1913">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 621 1860 1123 1913">
+     <span class='ocr_line' id='line_1_5' title="bbox 621 1860 1123 1913; baseline 0 -14"><span class='ocrx_word' id='word_1_16' title='bbox 621 1860 821 1913; x_wconf 79' lang='lat' dir='ltr'><strong>descripta</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 857 1862 1123 1899; x_wconf 75' lang='lat' dir='ltr'><strong>innotuerunt.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
